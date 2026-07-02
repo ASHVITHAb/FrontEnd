@@ -74,3 +74,37 @@ height: 440px;
 </body>
 
 </html>
+
+//css
+
+.layout div {
+ border: 2px solid black;
+background-color: palevioletred;
+justify-content: center;
+align-items: center;
+display: grid; 
+}
+
+.layout{
+          display: grid;
+          grid-template-columns: 1fr 1fr 1fr;
+          grid-template-areas: "h h h" 
+          "sb1 mc sb2"
+          "f f f";
+          grid-template-rows: 10vh 80vh  10vh;
+}
+.header{
+grid-area: h;
+}
+.sidebar1{
+grid-area: sb1 ;
+}
+.maincontent{
+grid-area: mc;
+}
+.sidebar2{
+grid-area: sb2;
+}
+.footer{
+grid-area: f;
+}
