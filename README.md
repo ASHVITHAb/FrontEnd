@@ -1,3 +1,3 @@
 Grid(html(Example 1 & 2),css(Example 1 & 2))
-javascript(DOM)
+javascript(DOM , addition)
 javascript(variable)
