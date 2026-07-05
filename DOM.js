@@ -17,6 +17,10 @@
           console.log(ash);
           let ash1 = document.getElementById("two")
           console.log(ash1.textContent);
+var a = 10;
+var b = 20;
+console.log(a + b);
+
 
 
 //output
