@@ -1,5 +1,5 @@
 Grid(html(Example 1 & 2),css(Example 1 & 2))
 
-javascript(DOM , addition,Onclick event)
+javascript(DOM , addition,Onclick Event)
 
 javascript(variable)
