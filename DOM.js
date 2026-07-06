@@ -27,6 +27,36 @@ console.log(a + b);
 /*<p id="one">Hi i am ashvi</p> --> one
 I complete my higher studys -->two*/
 
+
+</script>
+// onclick event
+</html>
+
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+          <meta charset="UTF-8">
+          <meta name="viewport" content="width=device-width, initial-scale=1.0">
+          <title>onclick Function</title>
+</head>
+
+<body>
+          <h1 id="h1">Hello World</h1>
+          <button onclick="change()">change</button>
+</body>
+<script>
+          let ash = document.getElementById("h1")
+          console.log(h1.textContent);
+
+          function change() {
+
+                    h1.textContent = "Bye world"
+          }
+
+
+
 </script>
 
 </html>
