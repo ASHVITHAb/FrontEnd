@@ -125,6 +125,57 @@ I complete my higher studys -->two*/
 
           //output will show in html webpage but only defalut number already enter in this html file 
 
+
+          <!DOCTYPE html>
+<html lang="en">
+
+<head>
+          <meta charset="UTF-8">
+          <meta name="viewport" content="width=device-width, initial-scale=1.0">
+          <title>onclick Function</title>
+</head>
+
+<body>
+          <!-- <h1 id="h1">Hello World</h1>
+          <button onclick="change()">change</button> -->
+          <input id="num1">
+          <input id="num2">
+          <button onclick="resultfunction()">Add</button>
+          <p id="result">Result</p>
+</body>
+<script>
+          // let ash = document.getElementById("h1")
+          // console.log(h1.textContent);
+
+          // function change() {
+
+          //           h1.textContent = "Bye world"
+          // }
+          // selecting inputbox1
+          //selecting inputbox2
+          var ash1 = document.getElementById("num1")
+          var ash2 = document.getElementById("num2")
+          //selecting result
+          var result = document.getElementById("result")
+          var ash1value = Number(ash1.value)
+          var ash2value = Number(ash2.value)
+          var total = ash1value + ash2value
+          function resultfunction() {
+                    var ash1value = Number(ash1.value)
+                    var ash2value = Number(ash2.value)
+                    var total = ash1value + ash2value
+                    result.textContent = total
+
+
+          }
+
+
+</script>
+
+</html>
+
+          //output display in webpage and also output has per user entering number has a adding output
+
 <!DOCTYPE html>
 <html lang="en">
 
