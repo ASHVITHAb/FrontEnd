@@ -123,7 +123,7 @@ I complete my higher studys -->two*/
 
 </html>
 
-          //output will show in html webpage
+          //output will show in html webpage but only defalut number already enter in this html file 
 
 <!DOCTYPE html>
 <html lang="en">
