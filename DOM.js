@@ -75,6 +75,8 @@ I complete my higher studys -->two*/
 
 </html>
 
+          //output for this code is visible in console not in webpage
+
 <!DOCTYPE html>
 <html lang="en">
 
