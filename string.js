@@ -17,3 +17,4 @@ console.log(city.toUpperCase());
 
 // 3. toLowerCase()
 // syntax
+//EXample
