@@ -35,3 +35,12 @@ console.log(username.trim());
 
 // o/p Ashvitha
 
+// 5. charAt()
+//syntax
+string.charAt(index)
+//Example
+let str = "JavaScript";
+
+console.log(str.charAt(4));
+
+
