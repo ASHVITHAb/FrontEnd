@@ -25,3 +25,13 @@ console.log(name.toLowerCase());
 
 // o/p ashvitha
 
+// 4.trim()
+//syntax
+string.trim()
+//example
+let username = "   Ashvitha   ";
+
+console.log(username.trim());
+
+// o/p Ashvitha
+
