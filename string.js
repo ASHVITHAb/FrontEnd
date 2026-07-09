@@ -19,3 +19,9 @@ console.log(city.toUpperCase());
 // syntax
 string.toLowerCase()
 //EXample
+let name = "ASHVITHA";
+
+console.log(name.toLowerCase());
+
+// o/p ashvitha
+
