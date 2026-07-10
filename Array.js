@@ -91,31 +91,22 @@ console.log(fruits.slice(1, 3));
 // Output
 // ["Mango", "Orange"]
 
-9. splice()
-
-Adds, removes, or replaces elements.
+// 9. splice()
 
 let fruits = ["Apple", "Mango", "Orange"];
-
 fruits.splice(1, 1);
-
 console.log(fruits);
 
-Output
+// Output
+// ["Apple", "Orange"]
 
-["Apple", "Orange"]
-10. sort()
-
-Sorts the array.
+// 10. sort()
 
 let fruits = ["Orange", "Apple", "Mango"];
-
 fruits.sort();
-
 console.log(fruits);
 
-Output
-
-["Apple", "Mango", "Orange"]
+// Output
+// ["Apple", "Mango", "Orange"]
 
 
