@@ -86,7 +86,7 @@ fruits.shift();
 
 console.log(fruits);
 
-Output
+// Output
 
 ["Mango", "Orange"]
 6. indexOf()
