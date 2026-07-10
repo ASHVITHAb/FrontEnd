@@ -26,5 +26,8 @@ let data = [
 ];
 
 console.log(data);
+// Output
+["Ashvitha", 23, true, 95.5]
+
 
 
