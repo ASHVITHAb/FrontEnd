@@ -78,12 +78,8 @@ console.log(fruits);
 
 // 5. shift()
 
-
-
 let fruits = ["Apple", "Mango", "Orange"];
-
 fruits.shift();
-
 console.log(fruits);
 
 // Output
@@ -92,20 +88,15 @@ console.log(fruits);
 
 // 6. indexOf()
 
-
 let fruits = ["Apple", "Mango", "Orange"];
-
 console.log(fruits.indexOf("Mango"));
 
-Output
+// Output
+// 1
 
-1
-7. includes()
-
-Checks whether an element exists.
+// 7. includes()
 
 let fruits = ["Apple", "Mango", "Orange"];
-
 console.log(fruits.includes("Apple"));
 
 Output
