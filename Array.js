@@ -3,7 +3,7 @@ let numbers = [10, 20, 30, 40];
 
 console.log(numbers);
 // Output
-[10, 20, 30, 40]
+// [10, 20, 30, 40]
 
 // 2. Index Starts from 0
 let fruits = ["Apple", "Mango", "Orange"];
@@ -13,9 +13,9 @@ console.log(fruits[1]);
 console.log(fruits[2]);
 
 // Output
-Apple
-Mango
-Orange
+// Apple
+// Mango
+// Orange
 
 // 3. Arrays Can Store Different Data Types
 let data = [
@@ -28,7 +28,7 @@ let data = [
 console.log(data);
 // Output
 
-["Ashvitha", 23, true, 95.5]
+// ["Ashvitha", 23, true, 95.5]
 
 // Common Array Methods
 
@@ -39,12 +39,10 @@ let fruits = ["Apple", "Mango", "Orange"];
 console.log(fruits.length);
 
 // Output
-3
+// 3
 
 
-2. push()
-
-Adds an element to the end.
+// 2. push()
 
 let fruits = ["Apple", "Mango"];
 
@@ -52,12 +50,11 @@ fruits.push("Orange");
 
 console.log(fruits);
 
-Output
+// Output
 
-["Apple", "Mango", "Orange"]
-3. pop()
+// ["Apple", "Mango", "Orange"]
 
-Removes the last element.
+// 3. pop()
 
 let fruits = ["Apple", "Mango", "Orange"];
 
@@ -65,12 +62,10 @@ fruits.pop();
 
 console.log(fruits);
 
-Output
+// Output
+// ["Apple", "Mango"]
 
-["Apple", "Mango"]
-4. unshift()
-
-Adds an element at the beginning.
+// 4. unshift()
 
 let fruits = ["Mango", "Orange"];
 
@@ -78,12 +73,12 @@ fruits.unshift("Apple");
 
 console.log(fruits);
 
-Output
+// Output
+// ["Apple", "Mango", "Orange"]
 
-["Apple", "Mango", "Orange"]
-5. shift()
+// 5. shift()
 
-Removes the first element.
+
 
 let fruits = ["Apple", "Mango", "Orange"];
 
