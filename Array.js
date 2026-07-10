@@ -27,7 +27,131 @@ let data = [
 
 console.log(data);
 // Output
+
 ["Ashvitha", 23, true, 95.5]
 
+// Common Array Methods
+
+// 1. length
+
+let fruits = ["Apple", "Mango", "Orange"];
+
+console.log(fruits.length);
+
+// Output
+3
+
+
+2. push()
+
+Adds an element to the end.
+
+let fruits = ["Apple", "Mango"];
+
+fruits.push("Orange");
+
+console.log(fruits);
+
+Output
+
+["Apple", "Mango", "Orange"]
+3. pop()
+
+Removes the last element.
+
+let fruits = ["Apple", "Mango", "Orange"];
+
+fruits.pop();
+
+console.log(fruits);
+
+Output
+
+["Apple", "Mango"]
+4. unshift()
+
+Adds an element at the beginning.
+
+let fruits = ["Mango", "Orange"];
+
+fruits.unshift("Apple");
+
+console.log(fruits);
+
+Output
+
+["Apple", "Mango", "Orange"]
+5. shift()
+
+Removes the first element.
+
+let fruits = ["Apple", "Mango", "Orange"];
+
+fruits.shift();
+
+console.log(fruits);
+
+Output
+
+["Mango", "Orange"]
+6. indexOf()
+
+Returns the index of an element.
+
+let fruits = ["Apple", "Mango", "Orange"];
+
+console.log(fruits.indexOf("Mango"));
+
+Output
+
+1
+7. includes()
+
+Checks whether an element exists.
+
+let fruits = ["Apple", "Mango", "Orange"];
+
+console.log(fruits.includes("Apple"));
+
+Output
+
+true
+8. slice()
+
+Returns a portion of the array.
+
+let fruits = ["Apple", "Mango", "Orange", "Grapes"];
+
+console.log(fruits.slice(1, 3));
+
+Output
+
+["Mango", "Orange"]
+9. splice()
+
+Adds, removes, or replaces elements.
+
+let fruits = ["Apple", "Mango", "Orange"];
+
+fruits.splice(1, 1);
+
+console.log(fruits);
+
+Output
+
+["Apple", "Orange"]
+10. sort()
+
+Sorts the array.
+
+let fruits = ["Orange", "Apple", "Mango"];
+
+fruits.sort();
+
+console.log(fruits);
+
+Output
+
+["Apple", "Mango", "Orange"]
 
 
