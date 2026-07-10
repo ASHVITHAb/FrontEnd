@@ -88,10 +88,10 @@ console.log(fruits);
 
 // Output
 
-["Mango", "Orange"]
-6. indexOf()
+// ["Mango", "Orange"]
 
-Returns the index of an element.
+// 6. indexOf()
+
 
 let fruits = ["Apple", "Mango", "Orange"];
 
