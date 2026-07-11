@@ -1,11 +1,11 @@
-//1. Stores Multiple Values
+//1.Stores Multiple Values
 let numbers = [10, 20, 30, 40];
 console.log(numbers);
 
 // Output
 // [10, 20, 30, 40]
 
-// 2. Index Starts from 0
+// 2.Index Starts from 0
 let fruits = ["Apple", "Mango", "Orange"];
 console.log(fruits[0]);
 console.log(fruits[1]);
@@ -16,7 +16,7 @@ console.log(fruits[2]);
 // Mango
 // Orange
 
-// 3. Arrays Can Store Different Data Types
+// 3.Arrays Can Store Different Data Types
 let data = [
     "Ashvitha",
     23,
@@ -29,14 +29,14 @@ console.log(data);
 // ["Ashvitha", 23, true, 95.5]
 
 // Common Array Methods
-// 1. length
+// 1.length
 let fruits = ["Apple", "Mango", "Orange"];
 console.log(fruits.length);
 
 // Output
 // 3
 
-// 2. push()
+// 2.push()
 let fruits = ["Apple", "Mango"];
 fruits.push("Orange");
 console.log(fruits);
