@@ -36,7 +36,6 @@ console.log(fruits.length);
 // Output
 // 3
 
-
 // 2. push()
 let fruits = ["Apple", "Mango"];
 fruits.push("Orange");
@@ -53,7 +52,7 @@ console.log(fruits);
 // Output
 // ["Apple", "Mango"]
 
-// 4. unshift()
+// 4.unshift()
 let fruits = ["Mango", "Orange"];
 fruits.unshift("Apple");
 console.log(fruits);
@@ -61,7 +60,7 @@ console.log(fruits);
 // Output
 // ["Apple", "Mango", "Orange"]
 
-// 5. shift()
+// 5.shift()
 let fruits = ["Apple", "Mango", "Orange"];
 fruits.shift();
 console.log(fruits);
