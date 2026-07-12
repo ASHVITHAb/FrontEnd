@@ -29,7 +29,6 @@ console.log(data);
 // 1.length
 let fruits = ["Apple", "Mango", "Orange"];
 console.log(fruits.length);
-
 // Output
 // 3
 
@@ -37,7 +36,6 @@ console.log(fruits.length);
 let fruits = ["Apple", "Mango"];
 fruits.push("Orange");
 console.log(fruits);
-
 // Output
 // ["Apple", "Mango", "Orange"]
 
@@ -45,7 +43,6 @@ console.log(fruits);
 let fruits = ["Apple", "Mango", "Orange"];
 fruits.pop();
 console.log(fruits);
-
 // Output
 // ["Apple", "Mango"]
 
@@ -53,7 +50,6 @@ console.log(fruits);
 let fruits = ["Mango", "Orange"];
 fruits.unshift("Apple");
 console.log(fruits);
-
 // Output
 // ["Apple", "Mango", "Orange"]
 
@@ -61,7 +57,6 @@ console.log(fruits);
 let fruits = ["Apple", "Mango", "Orange"];
 fruits.shift();
 console.log(fruits);
-
 // Output
 // ["Mango", "Orange"]
 
