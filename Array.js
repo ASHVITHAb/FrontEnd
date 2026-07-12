@@ -63,7 +63,6 @@ console.log(fruits);
 // 6.indexOf()
 let fruits = ["Apple", "Mango", "Orange"];
 console.log(fruits.indexOf("Mango"));
-
 // Output
 // 1
 
@@ -74,14 +73,12 @@ console.log(fruits.includes("Apple"));
 // true
 
 // 8.slice()
-
 let fruits = ["Apple", "Mango", "Orange", "Grapes"];
 console.log(fruits.slice(1, 3));
 // Output
 // ["Mango", "Orange"]
 
 // 9.splice()
-
 let fruits = ["Apple", "Mango", "Orange"];
 fruits.splice(1, 1);
 console.log(fruits);
@@ -89,7 +86,6 @@ console.log(fruits);
 // ["Apple", "Orange"]
 
 // 10.sort()
-
 let fruits = ["Orange", "Apple", "Mango"];
 fruits.sort();
 console.log(fruits);
