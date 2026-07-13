@@ -4,4 +4,4 @@ javascript(DOM , addition,Onclick Event)
 
 javascript(variable)
 
-Array in js
+Array in JavaScript (Common Array Methods)
