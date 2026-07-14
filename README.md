@@ -6,4 +6,4 @@ javascript(variable)
 
 Array in JavaScript (Common Array Methods)
 
-String(length(),Uppder)
+String(length(), Uppercase (), Lowercase (),trim(),Chart())
