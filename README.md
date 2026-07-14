@@ -5,4 +5,5 @@ javascript(DOM , addition,Onclick Event)
 javascript(variable)
 
 Array in JavaScript (Common Array Methods)
-String
+
+String(length(),Uppder)
