@@ -10,6 +10,6 @@ Array in JavaScript
 2.Index Starts from 0
 3.Arrays Can Store Different Data Types
 
-(Common Array Methods)
+(Common Array Methods {lenght(),pop(), push{},shift(), unshift(),splice(),slice(),include(),sort()})
 
 String(length(), Uppercase (), Lowercase (),trim(),Chart())
