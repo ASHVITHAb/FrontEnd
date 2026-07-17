@@ -1,5 +1,5 @@
 Grid(html(Example 1 & 2),css(Example 1 & 2))
-DOM(document object model or manipulation), addition,Onclick Event)
+DOM(document object model or manipulation), (addition,Onclick Event function)
 
 javascript(variable)
 
